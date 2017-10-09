@@ -8,4 +8,8 @@ host {'spiderman':
 
 host {'batman': 
 	ip => '192.168.126.133',
-} 
+}
+
+host {'hisman': 
+	ip => '192.168.126.134',
+ 
