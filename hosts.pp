@@ -5,3 +5,6 @@ host { 'superman':
 host {'spiderman': 
 	ip => '192.168.126.132',
 }
+
+	ip => '192.168.126.133',
+} 
